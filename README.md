@@ -2,13 +2,18 @@
 
 ***Business Scenario***
 
-A mid sized IT company wants to understand the reason behind the High Attrition rates in their company. The HR Department lacks visibility in :
+A mid sized IT company wants to understand the reason behind the High Attrition rates in their company. The HR Department lacks visibility in:
+
 •	Which department/Roles have high Attrition rates ?
+
 •	Joining Trends OverTime 
+
 •	Avg Ratings and Absent days by Department and Gender
+
 •	Total employee and Total Resignations
 
 In This project, 
+
 I fetched data from ADLS Storage using a data pipeline into the fabric lakehouse. 
 
 <img width="813" height="147" alt="data pipeline" src="https://github.com/user-attachments/assets/ab9da76d-a63a-40d2-a56e-450151bf4c88" />
